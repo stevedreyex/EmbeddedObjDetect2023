@@ -1,0 +1,26 @@
+<annotation>
+	<folder>sweet</folder>
+	<filename>card1.png</filename>
+	<path>D:\Class\112-1\嵌入式系統設計\final_dataset\sweet\card1.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>296</width>
+		<height>395</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>card</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>34</xmin>
+			<ymin>31</ymin>
+			<xmax>252</xmax>
+			<ymax>380</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>screen</folder>
+	<filename>IMG_4608.jpeg</filename>
+	<path>/Users/dreyex/Documents/temp/labeling/screen/IMG_4608.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>180</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>screen</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>7</xmin>
+			<ymin>41</ymin>
+			<xmax>246</xmax>
+			<ymax>172</ymax>
+		</bndbox>
+	</object>
+</annotation>

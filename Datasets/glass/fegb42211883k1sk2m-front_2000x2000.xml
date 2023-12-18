@@ -1,0 +1,26 @@
+<annotation>
+	<folder>glass</folder>
+	<filename>fegb42211883k1sk2m-front_2000x2000.jpg</filename>
+	<path>/Users/cheng/Desktop/dataset/glass/fegb42211883k1sk2m-front_2000x2000.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>524</width>
+		<height>524</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>glass</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>40</xmin>
+			<ymin>180</ymin>
+			<xmax>479</xmax>
+			<ymax>340</ymax>
+		</bndbox>
+	</object>
+</annotation>

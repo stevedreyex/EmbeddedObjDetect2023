@@ -1,0 +1,26 @@
+<annotation>
+	<folder>tennis</folder>
+	<filename>tennis1.jpg</filename>
+	<path>D:\Class\112-1\嵌入式系統設計\final_dataset\tennis\tennis1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3000</width>
+		<height>4000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tennis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>914</xmin>
+			<ymin>1612</ymin>
+			<xmax>2118</xmax>
+			<ymax>2858</ymax>
+		</bndbox>
+	</object>
+</annotation>

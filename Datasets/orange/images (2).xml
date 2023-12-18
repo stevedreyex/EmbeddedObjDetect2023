@@ -1,0 +1,26 @@
+<annotation>
+	<folder>orange</folder>
+	<filename>images (2).jpeg</filename>
+	<path>/Users/cheng/Desktop/dataset/orange/images (2).jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>274</width>
+		<height>184</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>orange</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>86</xmin>
+			<ymin>31</ymin>
+			<xmax>168</xmax>
+			<ymax>104</ymax>
+		</bndbox>
+	</object>
+</annotation>

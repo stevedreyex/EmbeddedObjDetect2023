@@ -1,0 +1,26 @@
+<annotation>
+	<folder>keyboard</folder>
+	<filename>1567152787-5999a3b6189a815324511bd8201ac963.jpg</filename>
+	<path>/Users/cheng/Desktop/dataset/keyboard/1567152787-5999a3b6189a815324511bd8201ac963.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1165</width>
+		<height>847</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>keyboard</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>113</xmin>
+			<ymin>348</ymin>
+			<xmax>1047</xmax>
+			<ymax>752</ymax>
+		</bndbox>
+	</object>
+</annotation>

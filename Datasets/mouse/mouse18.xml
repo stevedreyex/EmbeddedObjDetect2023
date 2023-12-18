@@ -1,0 +1,26 @@
+<annotation>
+	<folder>mouse</folder>
+	<filename>mouse18.jpg</filename>
+	<path>D:\Class\112-1\嵌入式系統設計\final_dataset\mouse\mouse18.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3000</width>
+		<height>4000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mouse</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1081</xmin>
+			<ymin>2116</ymin>
+			<xmax>1864</xmax>
+			<ymax>2770</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>embedded</folder>
+	<filename>5.jpg</filename>
+	<path>D:\PIC\embedded\5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1250</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>telephone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>244</xmin>
+			<ymin>351</ymin>
+			<xmax>328</xmax>
+			<ymax>593</ymax>
+		</bndbox>
+	</object>
+</annotation>

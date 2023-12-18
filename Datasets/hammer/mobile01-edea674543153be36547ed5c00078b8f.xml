@@ -1,0 +1,26 @@
+<annotation>
+	<folder>hammer</folder>
+	<filename>mobile01-edea674543153be36547ed5c00078b8f.jpg</filename>
+	<path>/Users/cheng/Desktop/dataset/hammer/mobile01-edea674543153be36547ed5c00078b8f.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hammer</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>28</xmin>
+			<ymin>88</ymin>
+			<xmax>464</xmax>
+			<ymax>256</ymax>
+		</bndbox>
+	</object>
+</annotation>

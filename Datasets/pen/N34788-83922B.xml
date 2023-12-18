@@ -1,0 +1,26 @@
+<annotation>
+	<folder>pen</folder>
+	<filename>N34788-83922B.jpg</filename>
+	<path>/Users/cheng/Desktop/dataset/pen/N34788-83922B.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>1000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pen</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>180</xmin>
+			<ymin>15</ymin>
+			<xmax>790</xmax>
+			<ymax>992</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>hammer</folder>
+	<filename>pngtree-a-hammer-png-image_4657072.jpg</filename>
+	<path>/Users/cheng/Desktop/dataset/hammer/pngtree-a-hammer-png-image_4657072.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>1710</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hammer</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>171</xmin>
+			<ymin>164</ymin>
+			<xmax>934</xmax>
+			<ymax>1605</ymax>
+		</bndbox>
+	</object>
+</annotation>

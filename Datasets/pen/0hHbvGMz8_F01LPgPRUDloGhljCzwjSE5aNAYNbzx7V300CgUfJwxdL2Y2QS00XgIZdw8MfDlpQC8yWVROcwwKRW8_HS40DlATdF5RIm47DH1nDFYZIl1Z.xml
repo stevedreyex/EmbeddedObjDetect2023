@@ -1,0 +1,26 @@
+<annotation>
+	<folder>pen</folder>
+	<filename>0hHbvGMz8_F01LPgPRUDloGhljCzwjSE5aNAYNbzx7V300CgUfJwxdL2Y2QS00XgIZdw8MfDlpQC8yWVROcwwKRW8_HS40DlATdF5RIm47DH1nDFYZIl1Z.jpeg</filename>
+	<path>/Users/cheng/Desktop/dataset/pen/0hHbvGMz8_F01LPgPRUDloGhljCzwjSE5aNAYNbzx7V300CgUfJwxdL2Y2QS00XgIZdw8MfDlpQC8yWVROcwwKRW8_HS40DlATdF5RIm47DH1nDFYZIl1Z.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>1000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pen</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>256</xmin>
+			<ymin>132</ymin>
+			<xmax>737</xmax>
+			<ymax>868</ymax>
+		</bndbox>
+	</object>
+</annotation>

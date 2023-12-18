@@ -1,0 +1,26 @@
+<annotation>
+	<folder>iphone</folder>
+	<filename>IMG_20231208_231124.jpg</filename>
+	<path>C:\Users\User\Desktop\iphone\IMG_20231208_231124.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2256</width>
+		<height>4000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>iphone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1041</xmin>
+			<ymin>952</ymin>
+			<xmax>1732</xmax>
+			<ymax>2143</ymax>
+		</bndbox>
+	</object>
+</annotation>

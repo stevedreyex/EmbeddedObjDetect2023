@@ -1,0 +1,26 @@
+<annotation>
+	<folder>glass</folder>
+	<filename>638353170648400000.jpeg</filename>
+	<path>/Users/cheng/Desktop/dataset/glass/638353170648400000.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>1000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>glass</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>122</xmin>
+			<ymin>351</ymin>
+			<xmax>871</xmax>
+			<ymax>605</ymax>
+		</bndbox>
+	</object>
+</annotation>

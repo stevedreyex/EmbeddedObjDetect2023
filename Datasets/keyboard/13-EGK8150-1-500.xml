@@ -1,0 +1,26 @@
+<annotation>
+	<folder>keyboard</folder>
+	<filename>13-EGK8150-1-500.jpg</filename>
+	<path>/Users/cheng/Desktop/dataset/keyboard/13-EGK8150-1-500.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>keyboard</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>34</xmin>
+			<ymin>157</ymin>
+			<xmax>460</xmax>
+			<ymax>336</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>hammer</folder>
+	<filename>sg-11134201-22110-dbkrn0c3xakv8a.jpeg</filename>
+	<path>/Users/cheng/Desktop/dataset/hammer/sg-11134201-22110-dbkrn0c3xakv8a.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>700</width>
+		<height>700</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hammer</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>94</xmin>
+			<ymin>46</ymin>
+			<xmax>620</xmax>
+			<ymax>646</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>umbrella</folder>
+	<filename>Umbrella2.jpg</filename>
+	<path>D:\Class\112-1\嵌入式系統設計\final_dataset\umbrella\Umbrella2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3000</width>
+		<height>4000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>umbrella</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>206</xmin>
+			<ymin>770</ymin>
+			<xmax>2643</xmax>
+			<ymax>3037</ymax>
+		</bndbox>
+	</object>
+</annotation>

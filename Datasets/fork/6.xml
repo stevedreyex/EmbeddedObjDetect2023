@@ -1,0 +1,26 @@
+<annotation>
+	<folder>fork</folder>
+	<filename>6.jpg</filename>
+	<path>D:\nycu\Embedded system design\final project\dataset\fork\6.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1109</width>
+		<height>1479</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fork</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>185</xmin>
+			<ymin>560</ymin>
+			<xmax>719</xmax>
+			<ymax>1207</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>pen</folder>
+	<filename>1657717817-3164072800-g.png</filename>
+	<path>/Users/cheng/Desktop/dataset/pen/1657717817-3164072800-g.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>533</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pen</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>188</xmin>
+			<ymin>49</ymin>
+			<xmax>596</xmax>
+			<ymax>474</ymax>
+		</bndbox>
+	</object>
+</annotation>

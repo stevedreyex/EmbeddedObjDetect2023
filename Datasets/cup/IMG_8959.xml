@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cup</folder>
+	<filename>IMG_8959.jpg</filename>
+	<path>C:\Users\User\Desktop\cup\IMG_8959.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>284</xmin>
+			<ymin>545</ymin>
+			<xmax>2653</xmax>
+			<ymax>2841</ymax>
+		</bndbox>
+	</object>
+</annotation>

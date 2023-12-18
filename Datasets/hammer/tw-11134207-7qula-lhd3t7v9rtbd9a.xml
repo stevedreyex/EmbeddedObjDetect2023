@@ -1,0 +1,26 @@
+<annotation>
+	<folder>hammer</folder>
+	<filename>tw-11134207-7qula-lhd3t7v9rtbd9a.jpeg</filename>
+	<path>/Users/cheng/Desktop/dataset/hammer/tw-11134207-7qula-lhd3t7v9rtbd9a.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>700</width>
+		<height>700</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hammer</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>49</xmin>
+			<ymin>46</ymin>
+			<xmax>619</xmax>
+			<ymax>618</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>scissor</folder>
+	<filename>10.jpg</filename>
+	<path>D:\nycu\Embedded system design\final project\dataset\scissor\10.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>1707</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>scissor</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>18</xmin>
+			<ymin>665</ymin>
+			<xmax>951</xmax>
+			<ymax>998</ymax>
+		</bndbox>
+	</object>
+</annotation>

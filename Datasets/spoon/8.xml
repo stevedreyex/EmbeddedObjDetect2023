@@ -1,0 +1,26 @@
+<annotation>
+	<folder>spoon</folder>
+	<filename>8.jpg</filename>
+	<path>D:\nycu\Embedded system design\final project\dataset\spoon\8.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>194</width>
+		<height>259</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>spoon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>25</xmin>
+			<ymin>44</ymin>
+			<xmax>178</xmax>
+			<ymax>173</ymax>
+		</bndbox>
+	</object>
+</annotation>
