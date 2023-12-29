@@ -13,7 +13,9 @@
 
 #include "common.hpp"
 
-std::string keys =
+using namespace std;
+
+string keys =
     "{ help  h     | | Print help message. }"
     "{ @alias      | | An alias name of model to extract preprocessing parameters from models.yml file. }"
     "{ zoo         | models.yml | An optional path to file with preprocessing parameters }"
@@ -34,7 +36,7 @@ std::string keys =
 using namespace cv;
 using namespace dnn;
 
-std::vector<std::string> classes;
+vector<string> classes;
 
 
 Mat post_process(Mat &input_image, vector<Mat> &outputs, const vector<string> &class_name) 
@@ -121,8 +123,8 @@ int main(int argc, char** argv)
 {
     CommandLineParser parser(argc, argv, keys);
 
-    const std::string modelName = parser.get<String>("@alias");
-    const std::string zooFile = parser.get<String>("zoo");
+    const string modelName = parser.get<String>("@alias");
+    const string zooFile = parser.get<String>("zoo");
 
     keys += genPreprocArguments(modelName, zooFile);
 
@@ -154,12 +156,12 @@ int main(int argc, char** argv)
     // Open file with classes names.
     if (parser.has("classes"))
     {
-        std::string file = parser.get<String>("classes");
-        std::ifstream ifs(file.c_str());
+        string file = parser.get<String>("classes");
+        ifstream ifs(file.c_str());
         if (!ifs.is_open())
             CV_Error(Error::StsError, "File " + file + " not found");
-        std::string line;
-        while (std::getline(ifs, line))
+        string line;
+        while (getline(ifs, line))
         {
             classes.push_back(line);
         }
@@ -177,7 +179,7 @@ int main(int argc, char** argv)
     //! [Read and initialize network]
 
     // Create a window
-    // static const std::string kWinName = "Deep learning image classification in OpenCV";
+    // static const string kWinName = "Deep learning image classification in OpenCV";
     // namedWindow(kWinName, WINDOW_NORMAL);
 
     /*
@@ -186,7 +188,7 @@ int main(int argc, char** argv)
      * Lab3 write the optput to jpeg
      */
     framebuffer_info fb_info = get_framebuffer_info("/dev/fb0");
-    std::ofstream ofs("/dev/fb0");
+    ofstream ofs("/dev/fb0");
     //! [Open a video file or an image file or a camera stream]
     // VideoCapture cap;
     // if (parser.has("input"))

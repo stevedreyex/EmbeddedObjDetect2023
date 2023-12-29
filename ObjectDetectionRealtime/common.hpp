@@ -1,16 +1,4 @@
 #include <opencv2/core/utils/filesystem.hpp>
-#include <fstream>
-#include <sstream>
-#include <fcntl.h>
-#include <iostream>
-#include <string.h>
-#include <unistd.h>
-#include <linux/fb.h>
-#include <sys/ioctl.h>
-
-#include <opencv2/dnn.hpp>
-#include <opencv2/imgproc.hpp>
-#include <opencv2/highgui.hpp>
 
 using namespace cv;
 
